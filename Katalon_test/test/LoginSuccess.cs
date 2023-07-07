@@ -110,8 +110,8 @@ namespace SeleniumTests
             testCases.Add(new TestCaseData("0912356782", "123456", true));
             testCases.Add(new TestCaseData("0912356793", "123456", true));
             testCases.Add(new TestCaseData("0912345678", "123456", true));
-            /*testCases.Add(new TestCaseData("0912345679", "123456", true));
-            testCases.Add(new TestCaseData("0912345680", "123456", true));
+            testCases.Add(new TestCaseData("0912345679", "123456", true));
+            /*testCases.Add(new TestCaseData("0912345680", "123456", true));
             testCases.Add(new TestCaseData("0912345681", "123456", true));
             testCases.Add(new TestCaseData("0912345682", "123456", true));
             testCases.Add(new TestCaseData("0912345683", "123456", true));
