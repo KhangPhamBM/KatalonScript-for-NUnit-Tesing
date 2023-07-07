@@ -1,4 +1,4 @@
-name: Test Login using NUnit and CI (with GitHub Actions) | © 2023 KhangPhamBM
+name: Testing Login using NUnit and CI (with GitHub Actions) | © 2023 KhangPhamBM
 
 on:
   push:
